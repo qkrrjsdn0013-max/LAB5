@@ -1,0 +1,10 @@
+# Generated build and implementation output. Evidence is kept in evidence/.
+**/build/
+**/vivado/
+**/.Xil/
+**/__pycache__/
+*.pyc
+*.jou
+*.str
+Thumbs.db
+.DS_Store

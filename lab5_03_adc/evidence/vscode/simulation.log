@@ -1,0 +1,3 @@
+VCD info: dumpfile wave.vcd opened for output.
+PASS ADC: 3 serial frames, command bits, sample, reset
+C:\Users\user\Desktop\LAB5\lab5_03_adc\sim\tb_adc.sv:48: $finish called at 2016000 (1ps)
