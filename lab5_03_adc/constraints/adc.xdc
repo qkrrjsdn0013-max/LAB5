@@ -5,11 +5,11 @@ set_property PACKAGE_PIN B6 [get_ports {clk_50mhz}]
 # KEY01
 set_property PACKAGE_PIN K4 [get_ports {rst_p}]
 # DIP_SW1
-set_property PACKAGE_PIN Y1 [get_ports {add_sel[0]}]
+set_property PACKAGE_PIN Y1 [get_ports {add_sel[2]}]
 # DIP_SW2
 set_property PACKAGE_PIN W3 [get_ports {add_sel[1]}]
 # DIP_SW3
-set_property PACKAGE_PIN U2 [get_ports {add_sel[2]}]
+set_property PACKAGE_PIN U2 [get_ports {add_sel[0]}]
 # SPI_AD
 set_property PACKAGE_PIN H3 [get_ports {adc_ncs}]
 # SPI_DIN
